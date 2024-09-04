@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=lucasduarte-xipp&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
+<img align="center" alt="Stats" src="https://github-readme-stats-sand-nu-93.vercel.app/api?username=dvarte-dev&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
 </p>
 
 ![github contribution grid snake animation](https://github.com/dvarte-dev/dvarte-dev/blob/output/github-contribution-grid-snake-dark.svg)
