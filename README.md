@@ -89,8 +89,7 @@
   <img alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="80" title="Git">
   <img alt="MySQL" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="80" title="MySQL">
   <img alt="MongoDB" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="80" title="MongoDB">
-</p>
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+</p><div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <!-- GIF à esquerda -->
   <img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="150">
 
@@ -101,7 +100,7 @@
       <img height="35" src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" alt="LinkedIn">
     </a>
     <a href="mailto:contato@dvarte.dev" target="_blank">
-      <img height="30" src="https://img.icons8.com/doodle/96/000000/gmail-new.png" alt="Email">
+      <img height="35" src="https://img.icons8.com/doodle/96/000000/gmail-new.png" alt="Email">
     </a>
     <a href="https://dvarte.dev" target="_blank">
       <img height="35" src="https://img.icons8.com/doodle/96/000000/domain.png" alt="Website">
@@ -112,9 +111,10 @@
   </div>
 
   <!-- Spotify Widget -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center; max-width:200; min-width: 150; top:90px;">
     <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&redirect=true">
       <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
     </a>
   </div>
 </div>
+
