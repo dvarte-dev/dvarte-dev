@@ -8,7 +8,7 @@
 
 [<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](mailto:lucasduarte.200984@gmail.com)
 [<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">](https://www.linkedin.com/in/dvarte-dev/)
-[<img src="https://img.icons8.com/doodle/96/000000/spotify.png" width="100" title="spotify">](https://open.spotify.com/user/seuspotifyid)
+[<img src="https://img.icons8.com/doodle/96/000000/spotify.png" width="100" title="spotify">](https://open.spotify.com/user/12159793014?si=b4897ce385514b7a)
 
 <p align="left"> 
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
