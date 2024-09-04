@@ -21,7 +21,7 @@
 
 </div>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
 <img align="center" alt="Stats" src="https://github-readme-stats-hazel-nine-27.vercel.app/api?username=lucasduarte-xipp&show_icons=true&theme=radical&hide=issues,stars&hide_border=true&hide_title=false&count_private=true&show=prs_merged,prs_merged_percentage&custom_title=dvarte-dev's Github Stats">
 </p>
 
