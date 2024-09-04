@@ -10,7 +10,7 @@
 [<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">](https://www.linkedin.com/in/dvarte-dev/)
 [<img src="https://img.icons8.com/doodle/96/000000/spotify.png" width="100" title="spotify">](https://open.spotify.com/user/seuspotifyid)
 
-<p align="left">
+<p align="left"> 
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
   <img alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100" title="typescript">
   <img alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" title="react">
