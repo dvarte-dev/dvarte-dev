@@ -27,7 +27,7 @@
   <img alt="JavaScript" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="80" title="JavaScript">
   <img alt="TypeScript" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="80" title="TypeScript">
   <img alt="React" src="https://www.svgrepo.com/show/452092/react.svg" width="80" title="React">
-  <img alt="Next.js" src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail-1.webp" width="80" title="Next.js">
+  <img alt="Next.js" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default" width="80" title="Next.js">
 </p>
 
 <!-- Back-End Section -->
