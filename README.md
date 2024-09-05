@@ -44,17 +44,32 @@
 </p>
 
 <!-- Contact Section -->
+
 <p align="center">
-<img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="280">
 <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"  width="300"/>
   </a>
 
-| [![LinkedIn](https://img.icons8.com/doodle/96/000000/linkedin-circled.png)](https://www.linkedin.com/in/dvarte-dev/) | [![Email](https://img.icons8.com/doodle/96/000000/gmail-new.png)](mailto:contato@dvarte.dev) | [![Website](https://img.icons8.com/doodle/96/000000/domain.png)](https://dvarte.dev) | [![Spotify](https://img.icons8.com/doodle/96/000000/spotify.png)](https://open.spotify.com/user/12159793014?si=b4897ce385514b7a) |
-| :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+<p align="center">
+**Connect Me..(●'◡'●)**
+</p>
 
 <p align="center">
-  
+      <a href="https://www.linkedin.com/in/dvarte-dev/" target="_blank">
+        <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" alt="LinkedIn" width="96">
+      </a>
+      <a href="mailto:contato@dvarte.dev" target="_blank">
+        <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" alt="Email" width="96">
+      </a>
+      <a href="https://dvarte.dev" target="_blank">
+        <img src="https://img.icons8.com/doodle/96/000000/domain.png" alt="Website" width="96">
+      </a>
+      <a href="https://open.spotify.com/user/12159793014?si=b4897ce385514b7a" target="_blank">
+        <img src="https://img.icons8.com/doodle/96/000000/spotify.png" alt="Spotify" width="96">
+      </a>
+</p>
+
 </p>
 
 <p align="center">
