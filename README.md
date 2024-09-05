@@ -1,10 +1,10 @@
 <!-- Title Section -->
 <p align="center">
-    <img src="hi2.gif" alt="Hi there..."/>
 </p>
 
 <!-- Stats Section -->
 <p align="center" style="margin-top: 20px;">
+    <img src="hi3.gif" alt="Hi there..."/>
 <img src="https://github-readme-stats-hazel-nine-27.vercel.app/api?username=lucasduarte-xipp&show_icons=true&theme=radical&hide=issues,stars&hide_border=true&hide_title=false&count_private=true&show=prs_merged,prs_merged_percentage&custom_title=dvarte-dev's Github Stats" alt="Stats">
 </p>
 
