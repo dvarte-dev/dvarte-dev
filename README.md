@@ -1,36 +1,36 @@
 <!-- Title Section -->
 <p align="center">
-    <img src="hi.gif" alt="Hi there..." width="465"/>
+  <img src="hi.gif" alt="Hi there..." width="465"/>
 </p>
 
 <!-- Front-End Section -->
 <p align="center">
-<img src="front.png" alt="Most Used Languages" width="210"/>
+  <img src="front.png" alt="Most Used Languages" width="210"/>
 </p>
 
 <p align="center">
-    <img alt="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="80" title="JavaScript">
-    <img alt="TypeScript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="80" title="TypeScript">
-    <img alt="React" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="80" title="React">
-    <img alt="Next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="80" title="Next.js">
+  <img alt="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="80" title="JavaScript">
+  <img alt="TypeScript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="80" title="TypeScript">
+  <img alt="React" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="80" title="React">
+  <img alt="Next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="80" title="Next.js">
 </p>
 
 <!-- Back-End Section -->
 <p align="center">
-<img src="back.png" alt="Most Used Languages" width="210"/>
+  <img src="back.png" alt="Most Used Languages" width="210"/>
 </p>
 
 <p align="center">
-    <img alt="C#" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="80" title="C#">
-    <img alt=".NET Core" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="80" title=".NET Core">
-    <img alt="Node.js" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="80" title="Node.js">
-    <img alt="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="80" title="Python">
-    <img alt="Flask" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="80" title="Flask">
+  <img alt="C#" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="80" title="C#">
+  <img alt=".NET Core" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="80" title=".NET Core">
+  <img alt="Node.js" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="80" title="Node.js">
+  <img alt="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="80" title="Python">
+  <img alt="Flask" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="80" title="Flask">
 </p>
 
 <!-- DevOps + CI + Tools Section -->
 <p align="center">
-<img src="ci.png" alt="Most Used Languages" width="230"/>
+  <img src="ci.png" alt="Most Used Languages" width="230"/>
 </p>
 
 <p align="center">
@@ -43,35 +43,35 @@
   <img alt="MongoDB" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="80" title="MongoDB">
 </p>
 
-<!-- Contact Section -->
-
+<!-- Spotify Section -->
 <p align="center">
-<img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="280">
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"  width="300"/>
+  <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="280">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"  width="300"/>
   </a>
 
-<p align="center">
-**Connect Me..(●'◡'●)**
+<!-- Contact Section -->
+  <div align="center">
+    <h1>Connect Me..(●'◡'●)</h1>
+  </div>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/dvarte-dev/" target="_blank">
+      <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" alt="LinkedIn" width="96">
+    </a>
+    <a href="mailto:contato@dvarte.dev" target="_blank">
+      <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" alt="Email" width="96">
+    </a>
+    <a href="https://dvarte.dev" target="_blank">
+      <img src="https://img.icons8.com/doodle/96/000000/domain.png" alt="Website" width="96">
+    </a>
+    <a href="https://open.spotify.com/user/12159793014?si=b4897ce385514b7a" target="_blank">
+      <img src="https://img.icons8.com/doodle/96/000000/spotify.png" alt="Spotify" width="96">
+    </a>
+  </p>
 </p>
 
-<p align="center">
-      <a href="https://www.linkedin.com/in/dvarte-dev/" target="_blank">
-        <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" alt="LinkedIn" width="96">
-      </a>
-      <a href="mailto:contato@dvarte.dev" target="_blank">
-        <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" alt="Email" width="96">
-      </a>
-      <a href="https://dvarte.dev" target="_blank">
-        <img src="https://img.icons8.com/doodle/96/000000/domain.png" alt="Website" width="96">
-      </a>
-      <a href="https://open.spotify.com/user/12159793014?si=b4897ce385514b7a" target="_blank">
-        <img src="https://img.icons8.com/doodle/96/000000/spotify.png" alt="Spotify" width="96">
-      </a>
-</p>
-
-</p>
-
+<!-- Contributions Section -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarte-dev&langs_count=8&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,assembly,batchfile&card_width=465" alt="Most Used Languages"/>
 </p>
