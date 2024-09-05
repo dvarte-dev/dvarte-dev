@@ -1,6 +1,6 @@
 <!-- Title Section -->
 <p align="center">
-    <img src="hi.gif" alt="Hi there..."/>
+    <img src="hi2.gif" alt="Hi there..."/>
 </p>
 
 <!-- Stats Section -->
