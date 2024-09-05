@@ -1,6 +1,6 @@
 <!-- Title Section -->
 <p align="center">
-    <img src="hi3.gif" alt="Hi there..." width="465"/>
+    <img src="hi.gif" alt="Hi there..." width="465"/>
 </p>
 
 <!-- Stats Section -->
@@ -12,14 +12,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarte-dev&langs_count=8&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,assembly,batchfile&card_width=465" alt="Most Used Languages"/>
 </p>
 
-![github contribution grid snake animation](https://github.com/dvarte-dev/dvarte-dev/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+<img src="https://github.com/dvarte-dev/dvarte-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contributions"/>
+</p>
 
 <!-- Front-End Section -->
-<div align="center" style="margin: 20px 0;">
-    <h2 style="display: inline-block; padding: 10px; border-radius: 8px; background: linear-gradient(135deg, #141321, #141321); color: #FE428E; box-shadow: 0 0 15px rgba(254, 66, 142, 0.7), 0 0 25px rgba(247, 143, 179, 0.6);">
-        🌐 Front-End 🌐
-    </h2>
-</div>
+<p align="center">
+<img src="front.png" alt="Most Used Languages" width="210"/>
+</p>
 
 <p align="center">
     <img alt="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="80" title="JavaScript">
@@ -28,14 +28,13 @@
     <img alt="Next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="80" title="Next.js">
 </p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #141321, #FE428E, #141321); margin: 20px 0; border-radius: 5px;">
+<!-- Linha usando um <div> -->
+<p style="width: 100%; height: 1px; background-color: #FE428E; margin: 20px 0;"></p>
 
 <!-- Back-End Section -->
-<div align="center" style="margin: 20px 0;">
-    <h2 style="display: inline-block; padding: 10px; border-radius: 8px; background: linear-gradient(135deg, #141321, #141321); color: #FE428E; box-shadow: 0 0 15px rgba(254, 66, 142, 0.7), 0 0 25px rgba(247, 143, 179, 0.6);">
-        🤖 Back-End 🤖
-    </h2>
-</div>
+<p align="center">
+<img src="back.png" alt="Most Used Languages" width="210"/>
+</p>
 
 <p align="center">
     <img alt="C#" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="80" title="C#">
@@ -45,14 +44,11 @@
     <img alt="Flask" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="80" title="Flask">
 </p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #141321, #FE428E, #141321); margin: 20px 0; border-radius: 5px;">
-
+<p style="width: 100%; height: 1px; background-color: #FE428E; margin: 20px 0;"></p>
 <!-- DevOps + CI + Tools Section -->
-<div align="center" style="margin: 20px 0;">
-    <h2 style="display: inline-block; padding: 10px; border-radius: 8px; background: linear-gradient(135deg, #141321, #141321); color: #FE428E; box-shadow: 0 0 15px rgba(254, 66, 142, 0.7), 0 0 25px rgba(247, 143, 179, 0.6);">
-        🛠️ DevOps + CI + Tools 🛠️
-    </h2>
-</div>
+<p align="center">
+<img src="ci.png" alt="Most Used Languages" width="230"/>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" width="80" title="Docker">
