@@ -1,5 +1,5 @@
 <!-- Title Section -->
-<div align="center" style="padding: 20px; background: url('https://media.giphy.com/media/YrIq06kG5yrtxQEhj3/giphy.gif') center / cover no-repeat; border-radius: 12px; box-shadow: 0 0 20px rgba(30, 30, 30, 0.7), 0 0 25px rgba(60, 60, 60, 0.6); font-family: 'Courier New', monospace; color: #EAEAEA;">
+<div align="center" style="padding: 20px; background: url('background.gif') center / cover no-repeat; border-radius: 12px; box-shadow: 0 0 20px rgba(30, 30, 30, 0.7), 0 0 25px rgba(60, 60, 60, 0.6); font-family: 'Courier New', monospace; color: #EAEAEA;">
     <p style="font-family: 'Courier New', monospace; color: #EAEAEA; font-size: 1.2em; margin-top: 10px;">
     Hi there...
     </p>
