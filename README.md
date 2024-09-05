@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-  <img alt="JavaScript" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="80" title="JavaScript">
-  <img alt="TypeScript" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="80" title="TypeScript">
+  <img alt="JavaScript" src="https://www.svgrepo.com/show/349419/javascript.svg" width="80" title="JavaScript">
+  <img alt="TypeScript" src="https://www.svgrepo.com/show/349540/typescript.svg" width="80" title="TypeScript">
   <img alt="React" src="https://www.svgrepo.com/show/452092/react.svg" width="80" title="React">
   <img alt="Next.js" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default" width="80" title="Next.js">
 </p>
