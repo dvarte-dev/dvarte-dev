@@ -45,9 +45,9 @@
 
 <!-- Spotify Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="280">
+  <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="180">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"  width="300"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"  width="200"/>
   </a>
 
 <!-- Contact Section -->
@@ -73,9 +73,9 @@
 
 <!-- Contributions Section -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarte-dev&langs_count=8&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,assembly,batchfile&card_width=465" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarte-dev&langs_count=8&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,assembly,batchfile&card_width=465" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/dvarte-dev/dvarte-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contributions"/>
+  <img src="https://github.com/dvarte-dev/dvarte-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contributions"/>
 </p>
