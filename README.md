@@ -1,6 +1,6 @@
 <!-- Title Section -->
 <p align="center">
-  <img src="hi.gif" alt="Hi there..." width="465"/>
+  <img src="https://github.com/dvarte-dev/dvarte-dev/blob/main/hi.gif?raw=true" alt="Hi there..." width="465"/>
 </p>
 
 <!-- Front-End Section -->
