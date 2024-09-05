@@ -3,19 +3,6 @@
     <img src="hi.gif" alt="Hi there..." width="465"/>
 </p>
 
-<!-- Stats Section -->
-<p align="center">
-<img src="https://github-readme-stats-hazel-nine-27.vercel.app/api?username=dvarte-dev&show_icons=true&theme=radical&hide=issues,stars&hide_border=true&hide_title=false&count_private=true&show=prs_merged,prs_merged_percentage&custom_title=dvarte-dev's Github Stats" alt="Stats">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarte-dev&langs_count=8&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,assembly,batchfile&card_width=465" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/dvarte-dev/dvarte-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contributions"/>
-</p>
-
 <!-- Front-End Section -->
 <p align="center">
 <img src="front.png" alt="Most Used Languages" width="210"/>
@@ -27,9 +14,6 @@
     <img alt="React" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="80" title="React">
     <img alt="Next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="80" title="Next.js">
 </p>
-
-<!-- Linha usando um <div> -->
-<p style="width: 100%; height: 1px; background-color: #FE428E; margin: 20px 0;"></p>
 
 <!-- Back-End Section -->
 <p align="center">
@@ -44,7 +28,6 @@
     <img alt="Flask" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="80" title="Flask">
 </p>
 
-<p style="width: 100%; height: 1px; background-color: #FE428E; margin: 20px 0;"></p>
 <!-- DevOps + CI + Tools Section -->
 <p align="center">
 <img src="ci.png" alt="Most Used Languages" width="230"/>
@@ -61,31 +44,23 @@
 </p>
 
 <!-- Contact Section -->
-<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <!-- GIF à esquerda -->
-  <img align='left' src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="150">
-
-  <!-- Seção de contato -->
-  <div style="display: flex; align-items: center; gap: 10px; flex-direction: column; text-align: center;">
-    <h3 style="color: #FE428E; margin: 0;">Connect Me..(●'◡'●)</h3>
-    <a href="https://www.linkedin.com/in/dvarte-dev/" target="_blank">
-      <img height="35" src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" alt="LinkedIn">
-    </a>
-    <a href="mailto:contato@dvarte.dev" target="_blank">
-      <img height="35" src="https://img.icons8.com/doodle/96/000000/gmail-new.png" alt="Email">
-    </a>
-    <a href="https://dvarte.dev" target="_blank">
-      <img height="35" src="https://img.icons8.com/doodle/96/000000/domain.png" alt="Website">
-    </a>
-    <a href="https://open.spotify.com/user/12159793014?si=b4897ce385514b7a" target="_blank">
-      <img height="35" src="https://img.icons8.com/doodle/96/000000/spotify.png" alt="Spotify">
-    </a>
-  </div>
-
-  <!-- Spotify Widget -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center; max-width:200; min-width: 150; margin-top:10px;">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&redirect=true">
+<p align="center">
+<img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="150">
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&redirect=true">
       <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
-    </a>
-  </div>
-</div>
+  </a>
+
+| [![LinkedIn](https://img.icons8.com/doodle/96/000000/linkedin-circled.png)](https://www.linkedin.com/in/dvarte-dev/) | [![Email](https://img.icons8.com/doodle/96/000000/gmail-new.png)](mailto:contato@dvarte.dev) | [![Website](https://img.icons8.com/doodle/96/000000/domain.png)](https://dvarte.dev) | [![Spotify](https://img.icons8.com/doodle/96/000000/spotify.png)](https://open.spotify.com/user/12159793014?si=b4897ce385514b7a) |
+| :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
+
+<p align="center">
+  
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvarte-dev&langs_count=8&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,assembly,batchfile&card_width=465" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/dvarte-dev/dvarte-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contributions"/>
+</p>
