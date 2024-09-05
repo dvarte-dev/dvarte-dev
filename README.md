@@ -1,11 +1,26 @@
 <!-- Title Section -->
 <p align="center">
-  <img src="https://github.com/dvarte-dev/dvarte-dev/blob/main/hi.gif?raw=true" alt="Hi there..." width="465"/>
+  <img src="img/hi.gif" alt="Hi there..."/>
+<h1></h1>
 </p>
+  <!-- Gif -->
+  <p align="center">
+    <img
+      src="img/cat.gif"
+      width="500"
+    />
+  </p>
+  <!-- Brief Summary -->
+  <h4 align="center"
+  >
+    Hey, I'm Lucas. I build stuff with code—mostly React, Node.js, and Python.
+    Love tech, just here, chillin' and making things work. Hit me up if you
+    vibe. And yeah... Just coding...
+  </h4>
 
 <!-- Front-End Section -->
 <p align="center">
-  <img src="front.png" alt="Most Used Languages" width="210"/>
+  <img src="img/front.png" alt="Most Used Languages" width="210"/>
 </p>
 
 <p align="center">
@@ -17,7 +32,7 @@
 
 <!-- Back-End Section -->
 <p align="center">
-  <img src="back.png" alt="Most Used Languages" width="210"/>
+  <img src="img/back.png" alt="Most Used Languages" width="210"/>
 </p>
 
 <p align="center">
@@ -30,7 +45,7 @@
 
 <!-- DevOps + CI + Tools Section -->
 <p align="center">
-  <img src="ci.png" alt="Most Used Languages" width="230"/>
+  <img src="img/ci.png" alt="Most Used Languages" width="230"/>
 </p>
 
 <p align="center">
