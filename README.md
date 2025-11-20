@@ -13,7 +13,7 @@
   <!-- Brief Summary -->
   <h4 align="center"
   >
-    Hey, I'm Lucas. I build stuff with code—mostly React, Node.js, and Python.
+    Hey, I'm Lucas. I build stuff with code.. mostly React, Node.js, and Python.
     Love tech, just here, chillin' and making things work. Hit me up if you
     vibe. And yeah... Just coding...
   </h4>
