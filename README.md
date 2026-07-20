@@ -60,10 +60,13 @@
 
 <!-- Spotify Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" width="180">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12159793014&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"  width="200"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12159793014&amp;redirect=true">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159793014&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;bar_color=53b14f"
+      alt="Spotify — tocando agora"
+    >
   </a>
+</p>
 
 <!-- Contact Section -->
   <div align="center">
