@@ -92,7 +92,7 @@
 
 <!-- Contributions Section -->
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dvarte-dev&langs_count=8&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,assembly,batchfile,python&card_width=465" alt="Most Used Languages"/>
+  <img src="https://github-stats-extended-dvarte.vercel.app/api/top-langs/?username=dvarte-dev&langs_count=10&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html,assembly,batchfile&size_weight=0.5&count_weight=0.5&card_width=465" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
