@@ -60,6 +60,7 @@
 
 <!-- Spotify Section -->
 <p align="center">
+  <img src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif" alt="Personagem dançando" width="180">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12159793014&amp;redirect=true">
     <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=12159793014&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;bar_color=53b14f"
